@@ -1,0 +1,19 @@
+
+.loginpage{
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    width: 50vw;
+    margin: auto;
+}
+
+input{
+    width: 18vw;
+    height: 4vh;
+}
+.newacc{
+    display: inline;
+}
+a{
+    text-decoration: none;
+}
